@@ -1,48 +1,64 @@
-# 💻 Aplikasi Asisten On-Demand Hibrida (ART, Perawat, Pengasuh ABK)
+# 💻 Tubes-Freaky-Figma-s---Human-Interaction-Computer---Portis
 
-> [cite_start]Repositori ini berisi Kerangka Research Objectives (RO) dan analisis mendalam untuk memandu fase pra-pengembangan aplikasi layanan profesional on-demand di Pasar Indonesia[cite: 2]. [cite_start]Aplikasi ini akan mengadopsi model bisnis hibrida yang melayani Asisten Rumah Tangga (ART), Perawat Medis/Lansia, dan Pengasuh Anak Berkebutuhan Khusus (ABK)[cite: 5].
-
----
-
-### 🎯 Fokus Strategis dan Research Objectives (RO) Kritis
-
-[cite_start]Fokus strategis proyek ini adalah memitigasi risiko regulasi krusial terkait ketenagakerjaan digital dan kerahasiaan data medis sensitif, sambil menjamin profesionalisasi tenaga kerja[cite: 3].
-
-#### I. Pasar dan Demand (Pilar I)
-* [cite_start]**RO 1.1 (Segmentasi Pasar):** Menentukan profil konsumen yang bersedia membayar (*Willingness to Pay* - WTP) untuk layanan bersertifikasi tinggi di tiga segmen layanan utama[cite: 7]. [cite_start]Konsumen di segmen Perawat dan Pengasuh ABK memiliki elastisitas WTP yang kuat terhadap **jaminan kepatuhan legal dan kualifikasi** (misalnya, STR aktif) dibandingkan faktor harga murni[cite: 14].
-* [cite_start]**RO 1.2 (Model Monetisasi Hibrida):** Menganalisis model bisnis optimal (Langganan untuk ART, *Pay-as-you-go* untuk medis/terapi spesifik) untuk menjaga keseimbangan antara fleksibilitas pekerja dan pendapatan platform[cite: 16, 19, 20].
-
-#### II. Supply dan Kualitas Layanan (Pilar II)
-* [cite_start]**RO 2.1 (Standardisasi Vetting):** Mengembangkan kerangka kompetensi minimum terintegrasi untuk setiap kategori pekerja, dari *background check* ketat untuk ART hingga validasi klinis bagi Perawat ber-STR aktif[cite: 32, 39].
-* [cite_start]**RO 2.2 (Retensi Profesional):** Menganalisis insentif non-finansial (seperti pelatihan berkelanjutan yang memberikan SKP dan perlindungan hukum) untuk merekrut dan mempertahankan tenaga profesional berlisensi (D3/S1 Keperawatan) yang biasanya memilih bekerja di rumah sakit[cite: 43, 49].
-
-#### III. Regulasi dan Legalitas (Pilar IV - Paling Kritis)
-* [cite_start]**RO 4.1 (Status Pekerja):** Menganalisis model hubungan kerja (kemitraan vs. karyawan) yang paling aman, mengantisipasi dampak RUU Perlindungan Pekerja Rumah Tangga (PPRT) dan memproyeksikan biaya kepatuhan (seperti iuran BPJS Ketenagakerjaan)[cite: 96, 103].
-* [cite_start]**RO 4.2 (Tata Kelola Data Sensitif):** Merumuskan Kebijakan Privasi dan Protokol Keamanan Data yang sesuai dengan UU Perlindungan Data Pribadi (UU PDP) dan UU Praktik Kedokteran, terutama untuk data medis sensitif (Rekam Medis) ABK dan lansia[cite: 107, 108]. [cite_start]**Kegagalan di pilar ini memiliki risiko sanksi UU PDP berat dan kehancuran reputasi**[cite: 128].
-* [cite_start]**RO 4.3 (Lisensi Kesehatan Digital):** Menyelidiki persyaratan izin operasional untuk layanan *home care* dan menjajaki pemanfaatan **Regulatory Sandbox Kemenkes** untuk kepastian hukum operasional layanan medis digital[cite: 114, 117].
+> Repositori ini berisi dokumentasi lengkap untuk proyek perancangan UI/UX berbasis *Human-Centered Design* sebagai tugas mata kuliah Interaksi Manusia dan Komputer. [cite_start]Proyek ini fokus pada fase **Pra-Pengembangan Aplikasi Layanan Profesional On-Demand Hibrida** di Indonesia, yang mencakup segmen **Asisten Rumah Tangga (ART), Perawat Medis/Lansia, dan Pengasuh Anak Berkebutuhan Khusus (ABK)**[cite: 1, 5].
 
 ---
 
-### 📊 Benchmark Kualifikasi dan Harga
+### 🎯 Research Objectives (RO) dan Fokus Strategis
 
-[cite_start]Platform ini menarik *Trust Premium* dengan memastikan kualifikasi yang ketat[cite: 125]. Berikut adalah matriks kualifikasi minimum:
+Fokus strategis utama dari proyek ini adalah mitigasi risiko regulasi krusial dan penjaminan kualitas untuk menarik *Trust Premium* di pasar.
 
-| Segmen Layanan | Tingkat Kualifikasi Minimal | Implikasi Harga (Benchmark) |
+#### [cite_start]Isu Kritis (Pilar IV: Regulasi & Legalitas) [cite: 94]
+
+Keberlanjutan bisnis platform sangat bergantung pada kepatuhan proaktif terhadap hukum:
+
+* [cite_start]**Status Pekerja (RO 4.1):** Menganalisis model hubungan kerja (kemitraan vs. karyawan) yang aman dan berkelanjutan, mengantisipasi dampak RUU Perlindungan Pekerja Rumah Tangga (PPRT)[cite: 96].
+* [cite_start]**Keamanan Data Medis (RO 4.2):** Mendesain infrastruktur enkripsi dan kebijakan privasi yang ketat sesuai **UU PDP** dan **UU Praktik Kedokteran/Keperawatan** untuk data kesehatan sensitif ABK dan lansia kronis[cite: 107, 108, 127].
+* [cite_start]**Lisensi Layanan Kesehatan (RO 4.3):** Menyelidiki perizinan operasional dan menjajaki pemanfaatan **Regulatory Sandbox Kemenkes** untuk mendapatkan kepastian hukum layanan medis digital[cite: 114, 117].
+
+#### [cite_start]Kualitas Layanan (Pilar II: Professionalization & HR) [cite: 30]
+
+Diferensiasi platform didasarkan pada kompetensi yang tervalidasi:
+
+* [cite_start]**Vetting Kompetensi (RO 2.1):** Standardisasi kualifikasi yang tajam: mulai dari *Background Check* ketat (ART) hingga validasi klinis **STR Aktif** (Perawat) dan sertifikasi khusus **Therapeutic Play Skill** (Pengasuh ABK)[cite: 32, 35, 38, 39].
+* [cite_start]**Retensi Profesional (RO 2.2):** Merumuskan paket insentif yang mampu menarik dan mempertahankan tenaga profesional berlisensi (D3/S1 Keperawatan) dari sektor formal[cite: 43].
+
+---
+
+### 📁 Struktur Repositori (Tahapan HCD & IMK)
+
+| Folder | Deskripsi Singkat | Status (Berdasarkan Log) |
 | :--- | :--- | :--- |
-| **Asisten Rumah Tangga (ART)** | [cite_start]Non-medis, Background Check ketat [cite: 28] | [cite_start]Bulanan (Rp 2.500.000 - 3.500.000) [cite: 28] |
-| **Perawat Lansia/Medis Ringan** | [cite_start]Minimal D3/S1 Keperawatan, STR Aktif [cite: 28] | [cite_start]Sesi/Jam (Rp 200.000+), Harian (Rp 350.000+) [cite: 28] |
-| **Pengasuh ABK/Autisme** | [cite_start]Sertifikasi Khusus (mis. Therapeutic Play Skill) [cite: 28] | [cite_start]Premium (Memerlukan validasi pasar terpisah) [cite: 28] |
+| `Progres 1 Dokumen Problem Statement & Ba...` | Pernyataan masalah, latar belakang, dan batasan proyek. | ✅ Selesai |
+| `Progres 2 Interview dan Survey` | Hasil data mentah dan ringkasan dari wawancara dan survei pengguna. | ✅ Selesai |
+| `Progres 3 Laporan Riset Pengguna` | Analisis mendalam dari data riset pengguna (affinity diagram, dll.). | ✅ Selesai |
+| `Progres 4 User Persona` | Profil pengguna fiktif berdasarkan riset. | ✅ Selesai |
+| `Progres 5 Emphaty Map` | Peta empati untuk setiap *User Persona*. | ✅ Selesai |
+| `Progres 6 User Journey Map` | Peta perjalanan pengguna, menyoroti *pain points* dan peluang desain. | ✅ Selesai |
+| `Progres 7 Dokumen Analisis Kebutuhan` | Kebutuhan fungsional dan non-fungsional sistem. | ✅ Selesai |
+| `Progres 8 Low Fidelity` | Wireframe dan sketsa awal antarmuka. | ✅ Selesai |
+| `Progres 9 Evaluasi Heuristik` | Laporan hasil pengujian heuristik (misalnya, 10 Heuristik Nielsen). | ✅ Selesai |
+| `Progres X Project Management` | Dokumen manajemen proyek (timeline, pembagian tugas). | ✅ Selesai |
+| `Progres XI Draft Jurnal` | Draf artikel/jurnal ilmiah mengenai hasil proyek. | ✅ Selesai |
+| `Progres On-Hold` | Dokumentasi atau fitur yang sedang ditinjau ulang atau ditunda implementasinya. | ⏳ On-Hold |
 
 ---
 
-### 🛡️ Mitigasi Risiko Utama
+### 🎨 Teknologi dan Alat
 
-[cite_start]Proyek ini harus diposisikan sebagai platform hibrida yang beroperasi di bawah dua rezim regulasi (Ketenagakerjaan umum/PPRT dan Sektor Kesehatan/Kemenkes)[cite: 124].
-
-| Isu Regulasi Kunci | Research Objective Kepatuhan (RO Kritis) | Risiko Utama Jika Gagal Dipenuhi |
-| :--- | :--- | :--- |
-| **Status Pekerja Platform** | [cite_start]Menentukan model hubungan kerja dan memproyeksikan biaya kepatuhan RUU PPRT[cite: 122]. | [cite_start]Gugatan klasifikasi ulang pekerja, denda ketenagakerjaan[cite: 122]. |
-| **Kerahasiaan Data Medis & ABK** | [cite_start]Mendesain infrastruktur enkripsi ketat dan kebijakan privasi untuk data kesehatan sensitif[cite: 122]. | [cite_start]**Pelanggaran kerahasiaan data pasien, denda UU PDP**[cite: 122]. |
-| **Lisensi Pelayanan Kesehatan** | [cite_start]Menjajaki Regulatory Sandbox untuk mendapatkan kepastian hukum layanan medis digital[cite: 123]. | [cite_start]Ilegalitas praktik keperawatan, platform dianggap beroperasi tanpa izin[cite: 124]. |
+* **Desain/Prototyping:** [Figma, Adobe XD, dll.]
+* **Dokumentasi Riset:** [Sebutkan alat atau format yang digunakan]
 
 ---
+
+### 👥 Kontributor
+
+* **[Nama Anggota 1]** - [Peran paling sesuai, contoh: Lead Researcher / Legal Compliance]
+* **[Nama Anggota 2]** - [Peran paling sesuai, contoh: UX/System Analyst / Dokumentasi]
+* **[Nama Anggota 3]** - [Peran paling sesuai]
+
+---
+
+### ✉️ Kontak
+
+Untuk pertanyaan atau kolaborasi, silakan hubungi: `[alamat.email@contoh.com]`
