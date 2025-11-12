@@ -1,4 +1,4 @@
-# 💻 Tubes-Freaky-Figma-s---Human-Interaction-Computer---Portis
+# 💻 Tubes Freaky Figmas Human Interaction Computer - Portis
 
 > Repositori ini berisi dokumentasi lengkap untuk proyek perancangan UI/UX berbasis *Human-Centered Design* sebagai tugas mata kuliah Interaksi Manusia dan Komputer. Proyek ini fokus pada fase **Pra-Pengembangan Aplikasi Layanan Profesional On-Demand Hibrida** di Indonesia, yang mencakup segmen **Asisten Rumah Tangga (ART), Perawat Medis/Lansia, dan Pengasuh Anak Berkebutuhan Khusus (ABK)**.
 
