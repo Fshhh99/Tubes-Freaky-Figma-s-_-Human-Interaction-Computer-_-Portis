@@ -1,6 +1,6 @@
 # 💻 Tubes-Freaky-Figma-s---Human-Interaction-Computer---Portis
 
-> Repositori ini berisi dokumentasi lengkap untuk proyek perancangan UI/UX berbasis *Human-Centered Design* sebagai tugas mata kuliah Interaksi Manusia dan Komputer. [cite_start]Proyek ini fokus pada fase **Pra-Pengembangan Aplikasi Layanan Profesional On-Demand Hibrida** di Indonesia, yang mencakup segmen **Asisten Rumah Tangga (ART), Perawat Medis/Lansia, dan Pengasuh Anak Berkebutuhan Khusus (ABK)**[cite: 1, 5].
+> Repositori ini berisi dokumentasi lengkap untuk proyek perancangan UI/UX berbasis *Human-Centered Design* sebagai tugas mata kuliah Interaksi Manusia dan Komputer. Proyek ini fokus pada fase **Pra-Pengembangan Aplikasi Layanan Profesional On-Demand Hibrida** di Indonesia, yang mencakup segmen **Asisten Rumah Tangga (ART), Perawat Medis/Lansia, dan Pengasuh Anak Berkebutuhan Khusus (ABK)**.
 
 ---
 
@@ -8,20 +8,20 @@
 
 Fokus strategis utama dari proyek ini adalah mitigasi risiko regulasi krusial dan penjaminan kualitas untuk menarik *Trust Premium* di pasar.
 
-#### [cite_start]Isu Kritis (Pilar IV: Regulasi & Legalitas) [cite: 94]
+#### Isu Kritis (Pilar IV: Regulasi & Legalitas)
 
 Keberlanjutan bisnis platform sangat bergantung pada kepatuhan proaktif terhadap hukum:
 
-* [cite_start]**Status Pekerja (RO 4.1):** Menganalisis model hubungan kerja (kemitraan vs. karyawan) yang aman dan berkelanjutan, mengantisipasi dampak RUU Perlindungan Pekerja Rumah Tangga (PPRT)[cite: 96].
-* [cite_start]**Keamanan Data Medis (RO 4.2):** Mendesain infrastruktur enkripsi dan kebijakan privasi yang ketat sesuai **UU PDP** dan **UU Praktik Kedokteran/Keperawatan** untuk data kesehatan sensitif ABK dan lansia kronis[cite: 107, 108, 127].
-* [cite_start]**Lisensi Layanan Kesehatan (RO 4.3):** Menyelidiki perizinan operasional dan menjajaki pemanfaatan **Regulatory Sandbox Kemenkes** untuk mendapatkan kepastian hukum layanan medis digital[cite: 114, 117].
+* **Status Pekerja (RO 4.1):** Menganalisis model hubungan kerja (kemitraan vs. karyawan) yang aman dan berkelanjutan, mengantisipasi dampak RUU Perlindungan Pekerja Rumah Tangga (PPRT).
+* **Keamanan Data Medis (RO 4.2):** Mendesain infrastruktur enkripsi dan kebijakan privasi yang ketat sesuai **UU PDP** dan **UU Praktik Kedokteran/Keperawatan** untuk data kesehatan sensitif ABK dan lansia kronis.
+* **Lisensi Layanan Kesehatan (RO 4.3):** Menyelidiki perizinan operasional dan menjajaki pemanfaatan **Regulatory Sandbox Kemenkes** untuk mendapatkan kepastian hukum layanan medis digital.
 
-#### [cite_start]Kualitas Layanan (Pilar II: Professionalization & HR) [cite: 30]
+#### Kualitas Layanan (Pilar II: Professionalization & HR)
 
 Diferensiasi platform didasarkan pada kompetensi yang tervalidasi:
 
-* [cite_start]**Vetting Kompetensi (RO 2.1):** Standardisasi kualifikasi yang tajam: mulai dari *Background Check* ketat (ART) hingga validasi klinis **STR Aktif** (Perawat) dan sertifikasi khusus **Therapeutic Play Skill** (Pengasuh ABK)[cite: 32, 35, 38, 39].
-* [cite_start]**Retensi Profesional (RO 2.2):** Merumuskan paket insentif yang mampu menarik dan mempertahankan tenaga profesional berlisensi (D3/S1 Keperawatan) dari sektor formal[cite: 43].
+* **Vetting Kompetensi (RO 2.1):** Standardisasi kualifikasi yang tajam: mulai dari *Background Check* ketat (ART) hingga validasi klinis **STR Aktif** (Perawat) dan sertifikasi khusus **Therapeutic Play Skill** (Pengasuh ABK).
+* **Retensi Profesional (RO 2.2):** Merumuskan paket insentif yang mampu menarik dan mempertahankan tenaga profesional berlisensi (D3/S1 Keperawatan) dari sektor formal.
 
 ---
 
@@ -44,20 +44,6 @@ Diferensiasi platform didasarkan pada kompetensi yang tervalidasi:
 
 ---
 
-### 🎨 Teknologi dan Alat
-
-* **Desain/Prototyping:** [Figma, Adobe XD, dll.]
-* **Dokumentasi Riset:** [Sebutkan alat atau format yang digunakan]
-
----
-
-### 👥 Kontributor
-
-* **[Nama Anggota 1]** - [Peran paling sesuai, contoh: Lead Researcher / Legal Compliance]
-* **[Nama Anggota 2]** - [Peran paling sesuai, contoh: UX/System Analyst / Dokumentasi]
-* **[Nama Anggota 3]** - [Peran paling sesuai]
-
----
 
 ### ✉️ Kontak
 
